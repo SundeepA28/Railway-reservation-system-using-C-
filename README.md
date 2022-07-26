@@ -12,3 +12,7 @@ Login Credentials:</br>
 Login:Railway</br>
 Password:1234
 
+How to execute the files:</br>
+gcc main.c rlyres.c</br>
+a.exe
+![Screenshot (178)](https://user-images.githubusercontent.com/79798048/180957353-809067f6-8f2d-40dc-963f-d18daef6319f.png)
